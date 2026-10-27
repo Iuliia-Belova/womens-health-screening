@@ -15,3 +15,5 @@ venv/
 # Windows system files
 Thumbs.db
 Desktop.ini
+# Generated databases
+*.db
